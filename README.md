@@ -1,5 +1,4 @@
-# Brightway2.5 for LCA
-How to use:
+# How to use brightway2.5 in jupyter
 1. Download and install anaconda [here](https://www.anaconda.com/download/success).
 2. Download repo into your LCA directory.
 3. Open console and create a virtual environment, using the yml file provided.  
