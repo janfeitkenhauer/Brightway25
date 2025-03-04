@@ -13,6 +13,6 @@ dependencies:
     - bw2data=4.0.dev56 # https://anaconda.org/cmutel/bw2data/files
     - bw2analyzer=0.11.7 # https://anaconda.org/cmutel/bw2analyzer/files
     - stats_arrays=0.7 # https://anaconda.org/conda-forge/stats_arrays/files
-    - ecoinvent_interface=2.4.1 # https://anaconda.org/cmutel/ecoinvent_interface/files
+    - ecoinvent_interface=3.1 # https://anaconda.org/cmutel/ecoinvent_interface/files
     # plotting
     - matplotlib
