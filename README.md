@@ -8,4 +8,4 @@
 ```conda activate env_bw25```
 6. Optional: If you are missing the right kernel in jupyter, use this command (in active environment):  
 ```python -m ipykernel install --user --name env_bw25 --display-name "Python (env_bw25)"```
-7. Start jupyter and continue with the notebok.
+7. Start jupyter in your LCA directory and continue with the notebok.
