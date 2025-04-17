@@ -10,5 +10,7 @@ dependencies:
     # Brightway
     - brightway25 # https://anaconda.org/cmutel/brightway25
     - bw2analyzer=0.11.7 # https://anaconda.org/cmutel/bw2analyzer/files -tbd
+    # Premise
+    - premise
     # plotting
     - matplotlib
