@@ -3,3 +3,4 @@ bw2analyzer==0.11.7
 premise[bw25]
 notebook
 matplotlib
+pypardiso
