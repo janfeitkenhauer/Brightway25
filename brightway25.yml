@@ -6,11 +6,11 @@ dependencies:
     # core functionality
     - python=3.11 # https://anaconda.org/conda-forge/python/files
     # jupyter
-    - jupyterlab=4.2.5 # https://anaconda.org/conda-forge/jupyterlab/files
+    # - jupyterlab=4.2.5 # https://anaconda.org/conda-forge/jupyterlab/files
     # Brightway
     - brightway25 # https://anaconda.org/cmutel/brightway25
     - bw2analyzer=0.11.7 # https://anaconda.org/cmutel/bw2analyzer/files -tbd
     # Premise
-    - premise
+    - premise[bw25]
     # plotting
     - matplotlib
