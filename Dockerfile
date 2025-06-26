@@ -23,4 +23,4 @@ COPY . .
 EXPOSE 8888
 
 # Starte Jupyter Notebook Server
-CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
+CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''"]
